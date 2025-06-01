@@ -28,7 +28,7 @@ transpired into being a full KPC mod project.
   <li>Go back to Configuration Type</li>
   <li>Set it to Application (.exe)</li>
   <li>Build + run</li>
-  <li>Application will look for the game (client.exe) </li>
+  <li>Application will look for the game process (client.exe) </li>
   <li>Open the game (KPC:TNC) and the dll will automatically inject</li>
 </ol>
 
