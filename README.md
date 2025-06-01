@@ -26,7 +26,7 @@ transpired into being a full KPC mod project.
   <li>Set it to Dynamic Library (.dll)</li>
   <li>Build it (ctrl+b)</li>
   <li>Go back to Configuration Type</li>
-  <li>Se it to Application (.exe)</li>
+  <li>Set it to Application (.exe)</li>
   <li>Build + run</li>
   <li>Application will look for the game (client.exe) </li>
   <li>Open the game (KPC:TNC) and the dll will automatically inject</li>
